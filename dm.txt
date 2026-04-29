@@ -4,3 +4,9 @@ acknowledge message
 send gif
 send voice notes
 have fun in Direct message
+
+////////////////////////////
+
+adding proper inbox with unread section at top
+notification badges
+mark as read button
