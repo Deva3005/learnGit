@@ -1,0 +1,3 @@
+new feature news feed is included in new branch
+
+// add some features and ask for approval
